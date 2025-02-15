@@ -11,7 +11,7 @@ This repository will be updated with code snippets from various articles coverin
 
 
 ## 🔗 Related Articles
-- [Creating an API for a Simple Linear Regression Model](#) *(Link to the article when published)*
+- [Creating an API for a Simple Linear Regression Model](https://www.linkedin.com/pulse/creating-api-simple-linear-regression-model-using-python--k5khc/?trackingId=zeJJCw9DRmWXwTqs%2Bf8aQQ%3D%3D) 
 
 ## 📬 Contact
 Feel free to connect on **[LinkedIn](https://www.linkedin.com/in/dhanmoti/)** or reach out via **[GitHub Issues](https://github.com/dhanmoti/ml-article-sample-code/issues)** if you have any questions!
