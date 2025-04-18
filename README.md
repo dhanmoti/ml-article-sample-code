@@ -6,13 +6,16 @@ This repository contains sample machine learning code used in my technical artic
 This repository will be updated with code snippets from various articles covering:
 - **Supervised Learning** (Linear Regression, Logistic Regression, etc.)
 - **Unsupervised Learning** (Clustering, Anomaly Detection, etc.)
+- **Deep Learning** using Keras
 - **API Deployment** (Flask, FastAPI, etc.)
 - **Model Optimization**
 
 
 ## 🔗 Related Articles
 - [Creating an API for a Simple Linear Regression Model](https://www.linkedin.com/pulse/creating-api-simple-linear-regression-model-using-python--k5khc/?trackingId=zeJJCw9DRmWXwTqs%2Bf8aQQ%3D%3D)
-- [🚀 Detecting Fraudulent Transactions Using Machine Learning & Real-Time API] (link of article #2 here)
+- [🚀 Detecting Fraudulent Transactions Using Machine Learning & Real-Time API] (https://www.linkedin.com/pulse/detecting-fraudulent-transactions-using-machine-learning--menxc)
+- [What is AI/ML?](https://www.linkedin.com/pulse/what-aiml-dhan-moti-devi--v1j)
+- [Optimize Corporate Credit Decisions — A Simple Keras Project] ([article 4 link here](https://medium.com/@dhanmoti/optimize-corporate-credit-decisions-a-simple-keras-project-895ae365bf0d]))
 
 ## 📬 Contact
 Feel free to connect on **[LinkedIn](https://www.linkedin.com/in/dhanmoti/)** or reach out via **[GitHub Issues](https://github.com/dhanmoti/ml-article-sample-code/issues)** if you have any questions!
