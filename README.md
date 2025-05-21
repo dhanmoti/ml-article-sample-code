@@ -13,9 +13,10 @@ This repository will be updated with code snippets from various articles coverin
 
 ## 🔗 Related Articles
 - [Creating an API for a Simple Linear Regression Model](https://www.linkedin.com/pulse/creating-api-simple-linear-regression-model-using-python--k5khc/?trackingId=zeJJCw9DRmWXwTqs%2Bf8aQQ%3D%3D)
-- [🚀 Detecting Fraudulent Transactions Using Machine Learning & Real-Time API] (https://www.linkedin.com/pulse/detecting-fraudulent-transactions-using-machine-learning--menxc)
+- [🚀 Detecting Fraudulent Transactions Using Machine Learning & Real-Time API](https://www.linkedin.com/pulse/detecting-fraudulent-transactions-using-machine-learning--menxc)
 - [What is AI/ML?](https://www.linkedin.com/pulse/what-aiml-dhan-moti-devi--v1j)
-- [Optimize Corporate Credit Decisions — A Simple Keras Project] ([article 4 link here](https://medium.com/@dhanmoti/optimize-corporate-credit-decisions-a-simple-keras-project-895ae365bf0d]))
+- [Optimize Corporate Credit Decisions — A Simple Keras Project](https://medium.com/@dhanmoti/optimize-corporate-credit-decisions-a-simple-keras-project-895ae365bf0d])
+- [Association Rule Mining (Part 1)](https://www.linkedin.com/pulse/ever-wondered-how-netflix-knows-what-youll-watch-next-devi--veobc/?trackingId=cCrtJvDSR1ehcSWCE%2F8p2A%3D%3D)
 
 ## 📬 Contact
 Feel free to connect on **[LinkedIn](https://www.linkedin.com/in/dhanmoti/)** or reach out via **[GitHub Issues](https://github.com/dhanmoti/ml-article-sample-code/issues)** if you have any questions!
