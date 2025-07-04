@@ -16,7 +16,8 @@ This repository will be updated with code snippets from various articles coverin
 - [🚀 Detecting Fraudulent Transactions Using Machine Learning & Real-Time API](https://www.linkedin.com/pulse/detecting-fraudulent-transactions-using-machine-learning--menxc)
 - [What is AI/ML?](https://www.linkedin.com/pulse/what-aiml-dhan-moti-devi--v1j)
 - [Optimize Corporate Credit Decisions — A Simple Keras Project](https://medium.com/@dhanmoti/optimize-corporate-credit-decisions-a-simple-keras-project-895ae365bf0d])
-- [Association Rule Mining (Part 1)](https://www.linkedin.com/pulse/ever-wondered-how-netflix-knows-what-youll-watch-next-devi--veobc/?trackingId=cCrtJvDSR1ehcSWCE%2F8p2A%3D%3D)
+- [Association Rule Mining (Part 1)](https://www.linkedin.com/pulse/ever-wondered-how-netflix-knows-what-youll-watch-next-devi--veobc)
+- [Association Rule Mining (Part 2)](https://www.linkedin.com/pulse/association-rule-mining-kaggle-notebook-part-2-devi-mba-mzryc)
 
 ## 📬 Contact
 Feel free to connect on **[LinkedIn](https://www.linkedin.com/in/dhanmoti/)** or reach out via **[GitHub Issues](https://github.com/dhanmoti/ml-article-sample-code/issues)** if you have any questions!
